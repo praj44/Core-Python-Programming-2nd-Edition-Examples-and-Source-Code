@@ -1,4 +1,4 @@
-Core-Python-Programming-2nd-Edition-Examples-and-Source-Code
+Core Python Programming 2nd Edition Examples and Source Code
 ============================================================
 
 Examples and source code from the book "Core Python Programming", 2nd Edition, by Wesley J. Chun
